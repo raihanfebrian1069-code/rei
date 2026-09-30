@@ -1,0 +1,6 @@
+{
+  "name": "NUCLEA-3D: Interactive Nuclear & Radiation Lab",
+  "description": "Laboratorium virtual 3D interaktif fisika nuklir dan radiasi untuk siswa SMA: Atom Explorer, simulasi radiasi, model reaktor, peluruhan radioaktif, dan chain reaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
